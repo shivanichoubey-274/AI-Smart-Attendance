@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+
+database/*.db
+data/enrollment/*.npy
+
+.vscode/
+.idea/
